@@ -2,6 +2,8 @@
 
 Repository for information and discussion of the hri-object dataset: https://hri-objects.leusmann.io/
 
+The dataset includes 153 Kitchen Objects (Images and Danger Ratings for three different scenarios). 
+
 [Read](https://payload.leusmann.io/publications/chiea23-577.pdf) the paper.
 
 [Download]() the dataset.
