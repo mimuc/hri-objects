@@ -1,5 +1,4 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
-Data-Analysis/dataframes/clean.csv
-Data-Analysis/00_Anonymization.ipynb
+internal/*
