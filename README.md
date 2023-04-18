@@ -6,8 +6,6 @@ The dataset includes 153 Kitchen Objects (Images and Danger Ratings for three di
 
 [Read](https://payload.leusmann.io/publications/chiea23-577.pdf) the paper.
 
-[Download]() the dataset.
-
 For questions and discussion please use and create an issue in this repository or contact: jan.leusmann@ifi.lmu.de
 
 If you use the dataset please cite our work: 
